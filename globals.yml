@@ -1,0 +1,27 @@
+rlogxi:
+  lower: -1.0
+  upper: 5.0
+  step: 0.2
+constants:
+  niter: 100
+  cfrac: 1
+  temperature: 1 
+  lcpres: 0 
+  pressure: 0.03 
+  density: 1000 
+  spectrum: file 
+  spectun: 0
+  column: 1e21
+  habund: 1
+  heabund: 1
+  cabund: 1
+  nabund: 1
+  oabund: 1
+  neabund: 1
+  mgabund: 1
+  siabund: 1
+  sabund: 1
+  arabund: 0
+  caabund: 0 
+  feabund: 1 
+  niabund: 0
